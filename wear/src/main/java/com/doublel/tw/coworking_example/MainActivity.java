@@ -1,4 +1,4 @@
-package com.doublel.tw.corking_practice_1;
+package com.doublel.tw.coworking_example;
 
 import android.app.Activity;
 import android.os.Bundle;
